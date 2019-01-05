@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 爬取三节课课堂作业及评语
+=======
+# 爬取三节课同学作业
+>>>>>>> 97c63344e382df20360314bb79f19d13ab144c62
 
 import requests,json,time
 from pandas import DataFrame
