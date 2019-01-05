@@ -1,4 +1,5 @@
-# 爬取三节课同学作业
+# 爬取三节课课堂作业及评语
+
 import requests,json,time
 from pandas import DataFrame
 
